@@ -36,7 +36,7 @@
 const faizan = {
   role      : "Full-Stack Engineer · AI/ML Builder",
   education : "B.E. CSE (AI-ML) — JSSATE Bengaluru · 2028",
-  record    : "3× National Hackathon Winner ",
+  record    : "3× National & Inter-College Hackathon Winner ",
   shipped   : "6 production apps ·",
   stack     : ["React 19", "Node.js", "MongoDB", "Docker", "Express", "CI/CD"],
   now       : "Grinding DSA · Learning System Design · Building in AI/ML",
