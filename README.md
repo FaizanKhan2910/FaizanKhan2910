@@ -19,7 +19,7 @@
 
 <br/>
 
-> 🛰️ **transmission //** deep space is dark on purpose here — every panel below reports live from GitHub's own satellites (stats, streak, trophies, contribution feed).
+> 🛰️ **transmission //** deep space is dark on purpose here — every panel below is live, not a screenshot.
 
 <br/>
 
@@ -37,11 +37,6 @@
   <img src="https://raw.githubusercontent.com/FaizanKhan2910/FaizanKhan2910/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </div>
 <p align="center"><sub>a snake eats through my real commit graph, refreshed every 12h by a GitHub Action</sub></p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanKhan2910&theme=tokyo-night&hide_border=true&bg_color=0d0d1f&area=true" width="100%" alt="contribution activity graph"/>
-</div>
-<p align="center"><sub>this second chart is the actual day-by-day contribution/activity graph — GitHub's own widget, just restyled</sub></p>
 
 <br/>
 
@@ -114,23 +109,10 @@ projects
 
 <br/>
 
-## 🏆 Trophy Bay
+## 📊 Telemetry — Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaizanKhan2910&theme=duotone-space&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" />
-</div>
-
-<br/>
-
-## 📊 Telemetry — Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FaizanKhan2910&show_icons=true&hide_border=true&theme=tokyonight" />
-  &nbsp;
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanKhan2910&hide_border=true&theme=tokyonight" />
-</div>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanKhan2910&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanKhan2910&hide_border=true&theme=tokyonight" />
 </div>
 
 <br/>
