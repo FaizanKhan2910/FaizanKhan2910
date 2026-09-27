@@ -49,21 +49,296 @@
 
 <br/>
 
-## 🪐 Orbit Map — Projects
+## 🪐 Mission Control — Projects
 
-```
-projects
-├── 🪐 DENTRA/                → AI dental diagnostics · YOLOv8 + Llama-3       [🥇 1st · National · 70+ teams]
-├── 🪐 SigmaGPT/              → AI image-gen SaaS · live Stripe billing        [100+ txns/mo · 50+ concurrent users]
-├── 🪐 CodeForge-AI/          → LLM code reviewer · AST + vuln scanning        [🥇 1st · CODEFORGE 2K25 · 53+ teams]
-├── 🪐 IP-SAKTI-Sahayak/      → Voice-guided Ayurvedic IP/legal RAG assistant  [Hindi + English, cited answers]
-├── 🪐 PRISMA/                → Privacy-first mental wellness app             [voice stress/emotion detection]
-├── 🪐 Stock-Trading-Platform/ → Real-time fintech dashboard                  [sub-100ms · P&L analytics]
-├── 🪐 Wanderlust/            → Airbnb-style travel booking platform
-├── 🪐 RIPPPLER/              → Predictive causal-graph DBMS                  [Neo4j + Groq/Llama-4]
-└── 🪐 Portfolio/             → 3D interactive site · Next.js 14 + Three.js   [scroll-reactive robot hero]
-```
+<div align="center">
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🦷 DENTRA</h3>
+
+<b>AI Dental Diagnostics</b>
+
+<p>
+Computer-vision powered dental analysis combining
+<strong>YOLOv8</strong> detection with <strong>Llama-3</strong>
+for AI-assisted diagnostic insights.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Llama--3-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%2FML-111827?style=flat-square"/>
+</p>
+
+<p>
+🏆 <strong>1st Place — National Level</strong><br/>
+70+ competing teams
+</p>
+
+<p>
+<a href="YOUR_DE​NTRA_DEMO">🚀 Live Demo</a>
+&nbsp;·&nbsp;
+<a href="YOUR_DENTRA_REPO">💻 Source</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎨 SigmaGPT</h3>
+
+<b>AI Image Generation SaaS</b>
+
+<p>
+Full-stack AI SaaS platform with image generation,
+authentication and <strong>live Stripe billing</strong>,
+built for concurrent users and production payments.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stripe-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square"/>
+</p>
+
+<p>
+⚡ <strong>100+ transactions/month</strong><br/>
+👥 <strong>50+ concurrent users</strong>
+</p>
+
+<p>
+<a href="YOUR_SIGMAGPT_DEMO">🚀 Live Demo</a>
+&nbsp;·&nbsp;
+<a href="YOUR_SIGMAGPT_REPO">💻 Source</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 CodeForge-AI</h3>
+
+<b>LLM-Powered Code Reviewer</b>
+
+<p>
+Automated code review system combining
+<strong>AST analysis</strong>, vulnerability scanning
+and LLM-generated feedback.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LLM-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/AST-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security-111827?style=flat-square"/>
+</p>
+
+<p>
+🏆 <strong>1st Place — CODEFORGE 2K25</strong><br/>
+53+ competing teams
+</p>
+
+<p>
+<a href="YOUR_CODEFORGE_DEMO">🚀 Demo</a>
+&nbsp;·&nbsp;
+<a href="YOUR_CODEFORGE_REPO">💻 Source</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚖️ IP-SAKTI Sahayak</h3>
+
+<b>Ayurvedic IP & Legal RAG Assistant</b>
+
+<p>
+Voice-guided RAG system designed to retrieve
+<strong>cited Ayurvedic intellectual-property and
+regulatory information</strong>.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Voice%20AI-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hindi%20%2B%20English-111827?style=flat-square"/>
+</p>
+
+<p>
+📚 <strong>Cited source-backed answers</strong><br/>
+🎙️ Voice-guided interaction
+</p>
+
+<p>
+<a href="YOUR_IPSAKTI_DEMO">🚀 Demo</a>
+&nbsp;·&nbsp;
+<a href="YOUR_IPSAKTI_REPO">💻 Source</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🛰️ More systems in orbit — 5 additional projects</b></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>🧠 PRISMA</h3>
+
+<b>Privacy-first Mental Wellness</b>
+
+<p>
+Mental wellness platform with
+voice-based stress/emotion analysis.
+</p>
+
+<p>
+<code>Next.js</code>
+<code>FastAPI</code>
+<code>AI</code>
+</p>
+
+<a href="YOUR_PRISMA_REPO">💻 Source ↗</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>📈 Stock Trading</h3>
+
+<b>Real-time Fintech Dashboard</b>
+
+<p>
+Trading dashboard with live market
+data, P&L tracking and analytics.
+</p>
+
+<p>
+<code>React</code>
+<code>Node.js</code>
+<code>WebSockets</code>
+</p>
+
+<p>⚡ Sub-100ms updates</p>
+
+<a href="YOUR_STOCK_REPO">💻 Source ↗</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🧬 RIPPPLER</h3>
+
+<b>Predictive Causal-Graph DBMS</b>
+
+<p>
+Graph-based system exploring
+causal relationships with AI.
+</p>
+
+<p>
+<code>Neo4j</code>
+<code>Groq</code>
+<code>Llama-4</code>
+</p>
+
+<a href="YOUR_RIPPPLER_REPO">💻 Source ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+<h3>✈️ Wanderlust</h3>
+
+<b>Travel Booking Platform</b>
+
+<p>
+Full-stack Airbnb-style travel
+listing and booking platform.
+</p>
+
+<p>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+</p>
+
+<a href="YOUR_WANDERLUST_REPO">💻 Source ↗</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🤖 Portfolio</h3>
+
+<b>3D Interactive Developer Portfolio</b>
+
+<p>
+Immersive portfolio experience
+with animated 3D interactions.
+</p>
+
+<p>
+<code>Next.js</code>
+<code>Three.js</code>
+</p>
+
+<a href="YOUR_PORTFOLIO_DEMO">🚀 Live ↗</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🔬 More experiments</h3>
+
+<b>AI + Full-Stack Lab</b>
+
+<p>
+Ongoing experiments across
+AI, systems and web engineering.
+</p>
+
+<p>
+<code>AI</code>
+<code>Web</code>
+<code>Systems</code>
+</p>
+
+<a href="https://github.com/FaizanKhan2910?tab=repositories">
+View repositories ↗
+</a>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<sub>
+⚡ 9 shipped systems · AI/ML · Full-Stack · Systems · FinTech
+</sub>
+
+</div>
 <br/>
 
 ## 🌠 Trajectory — Hackathon Wins
