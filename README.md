@@ -77,6 +77,7 @@ Production AI image-generation SaaS. Credit-based billing, Stripe payment proces
 </tr>
 <tr>
   <td width="50%" valign="top">
+    
   **CodeForge AI — Intelligent Code Analyzer**
     
 LLMs AST Parsing React Node.js MongoDB
