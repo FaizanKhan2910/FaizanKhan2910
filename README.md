@@ -42,10 +42,12 @@
 
 ## 🛰️ Payload — Experience
 
-> **drwxr-xr-x**  `Software Developer Intern — Full-Stack & AI`
+> `Software Developer Intern — Full-Stack & AI`
 > `Healthrytrix Healthtech Solutions` · Bengaluru · 2026
 >
-> Built voice-assessment workflows end-to-end — **React/Next.js** frontend, **FastAPI** backend, **PostgreSQL** for assessment metadata.
+> Built and integrated production voice-assessment workflows across
+> **Next.js/React + FastAPI + PostgreSQL**, including speech input,
+> assessment processing, persistence and backend API integration.
 
 <br/>
 
@@ -76,6 +78,7 @@ Production AI image-generation SaaS. Credit-based billing, Stripe payment proces
 <tr>
   <td width="50%" valign="top">
   **CodeForge AI — Intelligent Code Analyzer**
+    
 LLMs AST Parsing React Node.js MongoDB
 
 AI-powered code review platform that performs static analysis,
@@ -109,26 +112,8 @@ Real-time fintech dashboard. Sub-100ms response times, P&L analytics, order mana
 <tr>
 <td width="33%" valign="top">
 
-<h3>🧠 PRISMA</h3>
 
-<b>Privacy-first Mental Wellness</b>
 
-<p>
-Mental wellness platform with
-voice-based stress/emotion analysis.
-</p>
-
-<p>
-<code>Next.js</code>
-<code>FastAPI</code>
-<code>AI</code>
-</p>
-
-<a href="YOUR_PRISMA_REPO">💻 Source ↗</a>
-
-</td>
-
-<td width="33%" valign="top">
 
 <h3>📈 Stock Trading</h3>
 
@@ -153,28 +138,7 @@ data, P&L tracking and analytics.
 
 <td width="33%" valign="top">
 
-<h3>🧬 RIPPPLER</h3>
 
-<b>Predictive Causal-Graph DBMS</b>
-
-<p>
-Graph-based system exploring
-causal relationships with AI.
-</p>
-
-<p>
-<code>Neo4j</code>
-<code>Groq</code>
-<code>Llama-4</code>
-</p>
-
-<a href="YOUR_RIPPPLER_REPO">💻 Source ↗</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
 
 <h3>✈️ Wanderlust</h3>
 
