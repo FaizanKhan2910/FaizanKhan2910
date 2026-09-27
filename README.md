@@ -1,269 +1,150 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=13&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=380&lines=Available+for+internships+%C2%B7+Open+to+collaborate" alt="status"/>
+  <img src="assets/orbit-banner.svg" width="100%" alt="Faizan Khan — orbit banner"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=700&lines=Faizan+Khan" alt="name"/>
+  <a href="https://linkedin.com/in/faizan-khan-57092832a"><img src="https://img.shields.io/badge/LINKEDIN-12122b?style=flat-square&logo=linkedin&logoColor=8FD9FF" alt="LinkedIn"/></a>
+  <a href="mailto:fk6307672466@email.com"><img src="https://img.shields.io/badge/EMAIL-12122b?style=flat-square&logo=gmail&logoColor=FFD700" alt="Email"/></a>
+  <a href="https://github.com/FaizanKhan2910"><img src="https://img.shields.io/badge/GITHUB-12122b?style=flat-square&logo=github&logoColor=EAF2FF" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=FaizanKhan2910&color=12122b&style=flat-square&label=VIEWS" alt="views"/>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+Engineer;AI+%2F+ML+Builder;SIH+2026+National+Grand+Finalist;3%C3%97+Hackathon+Winner+%C2%B7+0+Losses" alt="roles"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/faizan-khan-57092832a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:fk6307672466@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <a href="https://github.com/FaizanKhan2910"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=FaizanKhan2910&color=58a6ff&style=flat-square&label=profile+views" alt="views"/>
-</div>
-
-<br/>
-
----
 
 <br/>
 
 <div align="center">
-
-### 🏆 Smart India Hackathon 2026 — National Grand Finalist
-**IP-SAKTI Sahayak** · Ministry of Ayush · SIH26045
-<br/>
-Multilingual RAG-powered legal assistant for Ayurvedic IP & regulatory guidance, fronted by a voice-first AI persona — pitched live to national-level judges.
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=8FD9FF&background=00000000&center=true&vCenter=true&width=650&lines=%3E+transmitting+from+low+earth+orbit...;%3E+open+to+internships+%C2%B7+3x+hackathon+winner;%3E+currently+charting%3A+dsa+%2B+system+design" alt="typing"/>
 </div>
 
 <br/>
 
----
+> 🛰️ **transmission //** deep space is dark on purpose here — every panel below reports live from GitHub's own satellites (stats, streak, trophies, contribution feed).
 
 <br/>
 
-```typescript
-const faizan = {
-  role       : "Full-Stack Engineer · AI/ML Builder",
-  education  : "B.E. CSE (AI & ML) — JSSATE Bengaluru, VTU · Class of 2028",
-  highlight  : "SIH 2026 National Grand Finalist",
-  record     : "3× Hackathon Winner — National & Inter-Collegiate",
-  experience : "Software Dev Intern (Full-Stack & AI) @ Healthrytrix Healthtech",
-  shipped    : ["DENTRA", "SigmaGPT", "CodeForge AI", "IP-SAKTI Sahayak", "PRISMA", "Wanderlust"],
-  stack      : ["React 19", "Next.js", "Node.js", "MongoDB", "FastAPI", "Docker"],
-  now        : "Grinding DSA · Learning System Design · Shipping in AI/ML",
-  open       : true, // ← internships & collaborations
-};
+## 🌌 Mission Log — About
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=1200&color=C9D6FF&background=00000000&center=true&vCenter=true&multiline=true&width=780&height=140&lines=B.E.+CSE+(AI+%26+ML)+%40+JSSATE+Bengaluru+%C2%B7+VTU+%C2%B7+class+of+2028;3x+Hackathon+Champion+%E2%80%94+National+%2B+Inter-Collegiate+%C2%B7+0+losses;Ex-Intern%2C+Full-Stack+%26+AI+%40+Healthrytrix+Healthtech+Solutions;8%2B+shipped+production+apps+%C2%B7+currently+grinding+DSA+%2B+system+design" alt="about"/>
+</div>
+
+<br/>
+
+## 📡 Live Feed — Contribution Chart
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FaizanKhan2910/FaizanKhan2910/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+</div>
+<p align="center"><sub>a snake eats through my real commit graph, refreshed every 12h by a GitHub Action</sub></p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanKhan2910&theme=tokyo-night&hide_border=true&bg_color=0d0d1f&area=true" width="100%" alt="contribution activity graph"/>
+</div>
+<p align="center"><sub>this second chart is the actual day-by-day contribution/activity graph — GitHub's own widget, just restyled</sub></p>
+
+<br/>
+
+## 🛰️ Payload — Experience
+
+> **drwxr-xr-x**  `Software Developer Intern — Full-Stack & AI`
+> `Healthrytrix Healthtech Solutions` · Bengaluru · 2026
+>
+> Built voice-assessment workflows end-to-end — **React/Next.js** frontend, **FastAPI** backend, **PostgreSQL** for assessment metadata.
+
+<br/>
+
+## 🪐 Orbit Map — Projects
+
+```
+projects
+├── 🪐 DENTRA/                → AI dental diagnostics · YOLOv8 + Llama-3       [🥇 1st · National · 70+ teams]
+├── 🪐 SigmaGPT/              → AI image-gen SaaS · live Stripe billing        [100+ txns/mo · 50+ concurrent users]
+├── 🪐 CodeForge-AI/          → LLM code reviewer · AST + vuln scanning        [🥇 1st · CODEFORGE 2K25 · 53+ teams]
+├── 🪐 IP-SAKTI-Sahayak/      → Voice-guided Ayurvedic IP/legal RAG assistant  [Hindi + English, cited answers]
+├── 🪐 PRISMA/                → Privacy-first mental wellness app             [voice stress/emotion detection]
+├── 🪐 Stock-Trading-Platform/ → Real-time fintech dashboard                  [sub-100ms · P&L analytics]
+├── 🪐 Wanderlust/            → Airbnb-style travel booking platform
+├── 🪐 RIPPPLER/              → Predictive causal-graph DBMS                  [Neo4j + Groq/Llama-4]
+└── 🪐 Portfolio/             → 3D interactive site · Next.js 14 + Three.js   [scroll-reactive robot hero]
 ```
 
 <br/>
 
----
-
-<br/>
-
-## Experience
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-**Software Developer Intern — Full-Stack & AI**
-`Healthrytrix Healthtech Solutions` · Bengaluru · 2026
-
-Built voice assessment workflows end-to-end with **React/Next.js** on the frontend and **FastAPI** on the backend, with **PostgreSQL** handling metadata storage for voice-based health assessments.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**IP-SAKTI Sahayak** 🏆 *SIH 2026 Finalist*
-`RAG` `LLM` `Voice AI` `Multilingual`
-
-Voice-guided legal assistant for Ayurvedic IP & traditional-knowledge law, powered by an AI persona ("Baba Ji") that answers with citations in Hindi and English.
-
-</td>
-<td width="50%" valign="top">
-
-**DENTRA — DentalVision AI**
-`YOLOv8` `Llama-3` `React` `Node.js` `MongoDB`
-
-Upload a dental X-ray — get cavity detection, LLM treatment reasoning, and a patient-ready report in seconds. Built in 24 hours at JSS Navotthana 2.0.
-
-🥇 **1st Place · National · 70+ teams**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**SigmaGPT**
-`Gemini 2.5` `Stripe` `React 19` `JWT` `ImageKit`
-
-Production AI image-generation SaaS with credit-based billing, Stripe payments, and CDN-optimised delivery. 100+ transactions/month · 50+ concurrent users.
-
-</td>
-<td width="50%" valign="top">
-
-**CodeForge AI — Intelligent Code Analyzer**
-`LLMs` `AST Parsing` `React` `Node.js` `MongoDB`
-
-Static analysis, security vulnerability detection, complexity scoring, and LLM-generated optimization suggestions across multi-language repos.
-
-🥇 **1st Place · CODEFORGE 2K25 · 53+ teams**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**PRISMA**
-`Next.js` `FastAPI` `Docker` `HuBERT`
-
-Privacy-first mental wellness platform with a Voice Check-in feature that detects stress and emotion from speech using acoustic biomarkers and a HuBERT-based model.
-
-</td>
-<td width="50%" valign="top">
-
-**Stock Trading Platform**
-`React` `Node.js` `MongoDB Atlas` `Express`
-
-Real-time fintech dashboard with sub-100ms response times, P&L analytics, and order management for 100+ concurrent positions.
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More builds</b></summary>
-<br/>
-
-- **Wanderlust** — Airbnb-inspired travel platform (full booking + listings flow)
-- **RIPPPLER** — predictive causal-graph DBMS (MongoDB, MySQL, Neo4j, Groq/Llama 4, FastAPI) modeling real 2025 geopolitical events
-- **Personal Portfolio** — Next.js 14, Three.js, and Framer Motion, with a 3D robot hero and scroll-reactive interactions
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## Hackathon Record
+## 🌠 Trajectory — Hackathon Wins
 
 <div align="center">
-
-| # | Competition | Scale | Field | Result |
-|:-:|:-----------|:-----:|:------|:------:|
-| 1 | **JSS Navotthana 2.0** | National · 70+ teams | Biometric AI Security | 🥇 1st |
-| 2 | **HACKATRONICS 2.0** | Inter-collegiate · 53+ teams | AI Mental Wellness | 🥇 1st |
-| 3 | **CODEFORGE 2K25** | Inter-collegiate · 53+ teams | AI Code Analysis | 🥇 1st |
-| 4 | **Smart India Hackathon 2026** | National | Ayurvedic Legal AI | 🏅 Grand Finalist |
-
+  <img src="https://img.shields.io/badge/JSS_NAVOTTHANA_2.0-12122b?style=for-the-badge&logo=trophy&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/National_·_70%2B_teams-1st_Place-1b1b45?style=for-the-badge&logoColor=8FD9FF" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/HACKATRONICS_2.0-12122b?style=for-the-badge&logo=trophy&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Inter--Collegiate_·_53%2B_teams-1st_Place-1b1b45?style=for-the-badge&logoColor=8FD9FF" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/CODEFORGE_2K25-12122b?style=for-the-badge&logo=trophy&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Inter--Collegiate_·_53%2B_teams-1st_Place-1b1b45?style=for-the-badge&logoColor=8FD9FF" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&duration=4000&pause=2000&color=3FB950&center=true&vCenter=true&width=400&lines=3+entered+%C2%B7+3+won+%C2%B7+1+national+final" alt="record"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=FFD700&background=00000000&center=true&width=400&lines=3+entered+%C2%B7+3+won+%C2%B7+0+losses" />
 </div>
 
 <br/>
 
----
-
-<br/>
-
-## Stack
+## ⚙️ Systems — Tech Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![JS](https://img.shields.io/badge/JavaScript-12122b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TS](https://img.shields.io/badge/TypeScript-12122b?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-12122b?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![React](https://img.shields.io/badge/React-12122b?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-12122b?style=for-the-badge&logo=nextdotjs&logoColor=EAF2FF)
+![Tailwind](https://img.shields.io/badge/Tailwind-12122b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Node](https://img.shields.io/badge/Node.js-12122b?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-12122b?style=for-the-badge&logo=express&logoColor=EAF2FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-12122b?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Mongo](https://img.shields.io/badge/MongoDB-12122b?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Postgres](https://img.shields.io/badge/PostgreSQL-12122b?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-12122b?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GHA](https://img.shields.io/badge/GitHub_Actions-12122b?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 </div>
 
 <br/>
 
----
+## 🏆 Trophy Bay
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FaizanKhan2910&theme=duotone-space&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" />
+</div>
 
 <br/>
 
-## Stats
+## 📊 Telemetry — Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FaizanKhan2910&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FaizanKhan2910&show_icons=true&hide_border=true&theme=tokyonight" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanKhan2910&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanKhan2910&hide_border=true&theme=tokyonight" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanKhan2910&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanKhan2910&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
 </div>
-
-<br/>
-
----
-
-<br/>
-
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanKhan2910&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
----
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=600&lines=I+don%27t+just+learn+technology+%E2%80%94+I+ship+it." alt="quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=8FD9FF&background=00000000&center=true&width=600&lines=%3E+signal+stable+...+see+you+in+the+next+commit_" />
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/faizan-khan-57092832a">
-    <img src="https://img.shields.io/badge/Let%27s_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-12122b?style=for-the-badge&logo=linkedin&logoColor=8FD9FF" alt="LinkedIn"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04040c,50:1b1b45,100:2d1b69&height=110&section=footer" width="100%"/>
 </div>
