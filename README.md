@@ -52,133 +52,45 @@
 ## 🪐 Mission Control — Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🦷 DENTRA</h3>
+**DENTRA — DentalVision AI**
+YOLOv8 Llama-3 React Node.js MongoDB
 
-<b>AI Dental Diagnostics</b>
+End-to-end AI diagnostic pipeline. Upload a dental X-ray — get cavity detection, LLM treatment reasoning, and a patient-ready report in seconds. Built in 24 hours at JSS Navotthana 2.0.
 
-<p>
-Computer-vision powered dental analysis combining
-<strong>YOLOv8</strong> detection with <strong>Llama-3</strong>
-for AI-assisted diagnostic insights.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Llama--3-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%2FML-111827?style=flat-square"/>
-</p>
-
-<p>
-🏆 <strong>1st Place — National Level</strong><br/>
-70+ competing teams
-</p>
-
-<p>
-<a href="YOUR_DE​NTRA_DEMO">🚀 Live Demo</a>
-&nbsp;·&nbsp;
-<a href="YOUR_DENTRA_REPO">💻 Source</a>
-</p>
+🏆 **1st Place · National · 70+ teams**
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🎨 SigmaGPT</h3>
+**SigmaGPT**
+Gemini 2.5 Stripe React 19 JWT ImageKit
 
-<b>AI Image Generation SaaS</b>
-
-<p>
-Full-stack AI SaaS platform with image generation,
-authentication and <strong>live Stripe billing</strong>,
-built for concurrent users and production payments.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stripe-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square"/>
-</p>
-
-<p>
-⚡ <strong>100+ transactions/month</strong><br/>
-👥 <strong>50+ concurrent users</strong>
-</p>
-
-<p>
-<a href="YOUR_SIGMAGPT_DEMO">🚀 Live Demo</a>
-&nbsp;·&nbsp;
-<a href="YOUR_SIGMAGPT_REPO">💻 Source</a>
-</p>
+Production AI image-generation SaaS. Credit-based billing, Stripe payment processing, CDN-optimised delivery. 100+ transactions/month · 50+ concurrent users · 45% faster load.
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+  <td width="50%" valign="top">
+  **CodeForge AI — Intelligent Code Analyzer**
+LLMs AST Parsing React Node.js MongoDB
 
-<h3>🤖 CodeForge-AI</h3>
+AI-powered code review platform that performs static analysis,
+security vulnerability detection, complexity scoring, and
+LLM-generated optimization suggestions. Supports multi-language
+repositories with instant feedback and automated reporting.
 
-<b>LLM-Powered Code Reviewer</b>
-
-<p>
-Automated code review system combining
-<strong>AST analysis</strong>, vulnerability scanning
-and LLM-generated feedback.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/LLM-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/AST-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-111827?style=flat-square"/>
-</p>
-
-<p>
-🏆 <strong>1st Place — CODEFORGE 2K25</strong><br/>
-53+ competing teams
-</p>
-
-<p>
-<a href="YOUR_CODEFORGE_DEMO">🚀 Demo</a>
-&nbsp;·&nbsp;
-<a href="YOUR_CODEFORGE_REPO">💻 Source</a>
-</p>
-
+🏆 **1st Place · CODEFORGE 2K25 · 53+ teams**
 </td>
-
 <td width="50%" valign="top">
 
-<h3>⚖️ IP-SAKTI Sahayak</h3>
+**Stock Trading Platform**
+React Node.js MongoDB Atlas Express
 
-<b>Ayurvedic IP & Legal RAG Assistant</b>
-
-<p>
-Voice-guided RAG system designed to retrieve
-<strong>cited Ayurvedic intellectual-property and
-regulatory information</strong>.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Voice%20AI-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hindi%20%2B%20English-111827?style=flat-square"/>
-</p>
-
-<p>
-📚 <strong>Cited source-backed answers</strong><br/>
-🎙️ Voice-guided interaction
-</p>
-
-<p>
-<a href="YOUR_IPSAKTI_DEMO">🚀 Demo</a>
-&nbsp;·&nbsp;
-<a href="YOUR_IPSAKTI_REPO">💻 Source</a>
-</p>
+Real-time fintech dashboard. Sub-100ms response times, P&L analytics, order management for 100+ concurrent positions. Optimised Atlas schema, environment-based CI/CD config.
 
 </td>
 </tr>
