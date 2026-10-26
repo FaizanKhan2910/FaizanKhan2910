@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/orbit-banner.svg" alt="Faizan Khan: Full-Stack Engineer & AI/ML Builder" width="100%">
+  <img src="assets/hero.svg" alt="Faizan Khan: Full-Stack Engineer & AI/ML Builder" width="100%">
 </p>
 <br/>
 
