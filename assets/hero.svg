@@ -16,7 +16,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 .hb{animation:hb 2s ease-in-out infinite}.ty{animation:hands .22s ease-in-out infinite alternate}
 .tp{transform-box:fill-box;transform-origin:left center;animation:tw 1.6s steps(12) infinite}
 .sp{transform-origin:450px 200px;animation:spin 14s linear infinite}
-.tw{animation:twk 3s ease-in-out infinite}.dr{animation:drift 9s ease-in-out infinite}
+.tw{animation:twk 7s ease-in-out infinite}.dr{animation:drift 9s ease-in-out infinite}
 @keyframes sit{0%,24%{opacity:1}25%,96%{opacity:0}100%{opacity:1}}
 @keyframes wk{0%,24.9%{opacity:0;transform:translateX(0)}25%{opacity:1;transform:translateX(0)}50%{transform:translateX(470px)}60%{opacity:1;transform:translateX(470px)}61%,100%{opacity:0;transform:translateX(470px)}}
 @keyframes wl{0%,25%{opacity:0}25.1%,49.5%{opacity:1}50%,100%{opacity:0}}
